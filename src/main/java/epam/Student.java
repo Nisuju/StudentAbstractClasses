@@ -16,7 +16,7 @@ public  class Student {
     }
     public double getAvergaeScore() {
         return this.averageScore;
-    }
+    }//
     public void setAverageScore(double AverageScore) {
         this.averageScore = AverageScore;
     }
